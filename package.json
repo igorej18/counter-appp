@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "11.10.0",
+    "node": "12.x",
     "npm": "6.7.0"
   },
   "homepage": "https://arnab-datta.github.io/counter-app",
